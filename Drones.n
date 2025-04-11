@@ -1,0 +1,13 @@
+// class Coordinate {
+//     public:
+//         int x, y;
+
+//         Coordinate(int inX = 0, int inY = 0) {
+//             x = inX;
+//             y = inY;
+//         }
+
+//         void display() {
+//             cout << "(" << x << ", " << y << ")" << endl;
+//         }
+// };
